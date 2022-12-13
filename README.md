@@ -1,3 +1,4 @@
--  Hi, I’m @wifv (Abu)
--  I’m interested in python and I’m learning it
+-  Hi, I’m @wifv
+-  I’m interested in Java and I’m learning it
 -  i'm 15
+edit: im still 15
